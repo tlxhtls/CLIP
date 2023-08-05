@@ -3,3 +3,6 @@ regex
 tqdm
 torch
 torchvision
+boto3
+openai
+dotenv
